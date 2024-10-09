@@ -1,4 +1,3 @@
-# 
 - 💫 About Me:
 - 👋 Hi, I’m Essencia Letlape
 - 👀 I’m interested in Web Applications...
