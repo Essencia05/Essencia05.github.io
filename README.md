@@ -1,1 +1,8 @@
-# Essencia05.github.io
+# 
+- 💫 About Me:
+- 👋 Hi, I’m Essencia Letlape
+- 👀 I’m interested in Web Applications...
+- 🌱 I’m currently training to become a full stack Dev ops professional...
+- 📫 How to reach me re.letlape@gmail.com...
+
+I am a hard working, honest individual. I am a good timekeeper, always willing to learn new skills. I am friendly, helpful and polite, have a good sense of humour, I am able to work independently in busy environments and also within a team setting. I am passionate about the things I do. I always strive to finish what I've started.
